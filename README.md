@@ -21,3 +21,8 @@
 
 1. Commandline Runner used
 2. Parllel Stream used file procesessing 
+3. Found events written to working directory 
+	
+	#Working Director => {project_path}data/mydb
+	
+	#Logs Directory => {project_path}logs/app.log [all the old log archived at logs\archived folder]
