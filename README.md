@@ -14,7 +14,8 @@
 5. JUnit/Integration test implemented. Sample file is inbuild in test/resources which executed at time of Junit [integration test]
 
 ## Profiling 
-
+	
+	62,00,000 records process in ~10 min - 10k records in 1 second
 
 ## Implementation
 
