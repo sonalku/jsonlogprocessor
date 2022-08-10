@@ -15,14 +15,8 @@
 
 ## Profiling 
 
-I executed for 6205440 records and completed in 13 min ~8k records process per second.
 
 ## Implementation
 
 1. Commandline Runner used
 2. Parllel Stream used file procesessing 
-
-
-
-
-
